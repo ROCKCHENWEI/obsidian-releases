@@ -36237,5 +36237,12 @@
     "author": "river",
     "description": "Export local Codex archived sessions to Markdown notes grouped by workspace. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nicklennonliu/obsidian-codex-session-archive"
+  },
+  {
+    "id": "copilot-cn",
+    "name": "Copilot CN (MiniMax/Kimi/GLM)",
+    "author": "ROCKCHENWEI",
+    "description": "Obsidian 侧边栏中文 AI 助手：对接 MiniMax / Kimi / GLM（含 glm-5.2），流式输出、Markdown 渲染、活动笔记上下文，对话可保存与导出。",
+    "repo": "ROCKCHENWEI/Copilot-CN"
   }
 ]
